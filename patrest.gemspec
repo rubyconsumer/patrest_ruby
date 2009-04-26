@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.date = %q{2009-04-26}
   s.description = %q{patrest is a Ruby library for talking to libraries using the Ann Arbor District Library\'s PatREST API.'}
   s.email = %q{trek.glowacki@gmail.com}
-  s.files = ["README.markdown", "lib/patrest", "lib/patrest/patron", "lib/patrest/record", "lib/patrest/search"]
+  s.files = ["README.markdown", "lib/patrest.rb", "lib/patrest/patron.rb", "lib/patrest/record.rb", "lib/patrest/search.rb"]
   s.has_rdoc = false
   s.homepage = %q{http://github.com/trek/patrest-ruby}
   s.rdoc_options = ["--inline-source", "--charset=UTF-8"]
