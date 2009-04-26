@@ -1,7 +1,13 @@
 # PatREST client for Ruby
 Client library for the [Ann Arbor District Library](http://www.aadl.org)'s [PatREST API](http://www.blyberg.net/downloads/patrest_1.3_overview.pdf).
 
-## Installing
+### Installing
+Run the following if you haven't already:
+
+    gem sources -a http://gems.github.com
+Install the gem(s):
+
+    sudo gem install trek-patrest
 
 ### Setup
 Start by setting your library API's base url. For AADL, it's 'http://www.aadl.org/rest/'
