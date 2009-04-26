@@ -1,7 +1,6 @@
 # PatREST client for Ruby
 Client library for the [Ann Arbor District Library](http://www.aadl.org)'s [PatREST API](http://www.blyberg.net/downloads/patrest_1.3_overview.pdf).
 
-## Usage
 ## Installing
 
 ### Setup

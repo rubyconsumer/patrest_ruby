@@ -19,7 +19,7 @@ describe Patron, "accessing account data" do
   end
   
   it "can provide an array of items on hold" do
-    mock_http(:get, "http://localhost.com", 'patron_holds.xml')
+    mock_http(:get, "http://localhost.com", 'patron_holds_with_one_item.xml')
     @patron.holds.should be_kind_of(Array)
     @patron.holds[0].should be_kind_of(Record)
   end
