@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="/misc/opac.xsl"?>
+<SearchResult>
+	<searchtype>Author</searchtype>
+	<searchstring>hawking</searchstring>
+	<Records xmlns:p="http://www.aadl.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<Record id="1298843" xlink:href="http://www.aadl.org/rest/record/1298843/" xlink:title="George&#39;s secret key to the universe / by Lucy &amp; Stephen Hawking with Christophe Galfard ; illustrated by Garry Parsons">
+			<bibnum>1298843</bibnum>
+			<fulltitle>George&#39;s secret key to the universe / by Lucy &amp; Stephen Hawking with Christophe Galfard ; illustrated by Garry Parsons</fulltitle>
+			<title>George&#39;s secret key to the universe</title>
+			<author>Hawking, Lucy</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1298843/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1298843</recordlink>
+		</Record>
+		<Record id="1263890" xlink:href="http://www.aadl.org/rest/record/1263890/" xlink:title="Alien planet [videorecording] / produced by Evergreen Films ; Discovery Communications, Inc ; produced by John Copeland ; directed by Pierre de Lespinois">
+			<bibnum>1263890</bibnum>
+			<fulltitle>Alien planet [videorecording] / produced by Evergreen Films ; Discovery Communications, Inc ; produced by John Copeland ; directed by Pierre de Lespinois</fulltitle>
+			<title>Alien planet [videorecording]</title>
+			<author></author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1263890/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1263890</recordlink>
+		</Record>
+		<Record id="1082377" xlink:href="http://www.aadl.org/rest/record/1082377/" xlink:title="Black holes and baby universes and other essays / Stephen Hawking">
+			<bibnum>1082377</bibnum>
+			<fulltitle>Black holes and baby universes and other essays / Stephen Hawking</fulltitle>
+			<title>Black holes and baby universes and other essays</title>
+			<author>Hawking, S. W. (Stephen W.)</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1082377/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1082377</recordlink>
+		</Record>
+		<Record id="1171287" xlink:href="http://www.aadl.org/rest/record/1171287/" xlink:title="A brief history of time [sound recording] / by Stephen W. Hawking">
+			<bibnum>1171287</bibnum>
+			<fulltitle>A brief history of time [sound recording] / by Stephen W. Hawking</fulltitle>
+			<title>A brief history of time [sound recording]</title>
+			<author>Hawking, S. W. (Stephen W.)</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1171287/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1171287</recordlink>
+		</Record>
+		<Record id="1303057" xlink:href="http://www.aadl.org/rest/record/1303057/" xlink:title="A brief history of time / Stephen Hawking">
+			<bibnum>1303057</bibnum>
+			<fulltitle>A brief history of time / Stephen Hawking</fulltitle>
+			<title>A brief history of time</title>
+			<author>Hawking, S. W. (Stephen W.)</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1303057/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1303057</recordlink>
+		</Record>
+		<Record id="1031870" xlink:href="http://www.aadl.org/rest/record/1031870/" xlink:title="A brief history of time : from the big bang to black holes / Stephen W. Hawking ; introduction by Carl Sagan ; illustrations by Ron Miller">
+			<bibnum>1031870</bibnum>
+			<fulltitle>A brief history of time : from the big bang to black holes / Stephen W. Hawking ; introduction by Carl Sagan ; illustrations by Ron Miller</fulltitle>
+			<title>A brief history of time : from the big bang to black holes</title>
+			<author>Hawking, S. W. (Stephen W.)</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1031870/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1031870</recordlink>
+		</Record>
+		<Record id="1251577" xlink:href="http://www.aadl.org/rest/record/1251577/" xlink:title="A briefer history of time / Stephen Hawking and Leonard Mlodinow">
+			<bibnum>1251577</bibnum>
+			<fulltitle>A briefer history of time / Stephen Hawking and Leonard Mlodinow</fulltitle>
+			<title>A briefer history of time</title>
+			<author>Hawking, S. W. (Stephen W.)</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1251577/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1251577</recordlink>
+		</Record>
+		<Record id="1255221" xlink:href="http://www.aadl.org/rest/record/1255221/" xlink:title="A briefer history of time [sound recording] / Stephen Hawking">
+			<bibnum>1255221</bibnum>
+			<fulltitle>A briefer history of time [sound recording] / Stephen Hawking</fulltitle>
+			<title>A briefer history of time [sound recording]</title>
+			<author>Hawking, S. W. (Stephen W.)</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1255221/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1255221</recordlink>
+		</Record>
+		<Record id="1298843" xlink:href="http://www.aadl.org/rest/record/1298843/" xlink:title="George&#39;s secret key to the universe / by Lucy &amp; Stephen Hawking with Christophe Galfard ; illustrated by Garry Parsons">
+			<bibnum>1298843</bibnum>
+			<fulltitle>George&#39;s secret key to the universe / by Lucy &amp; Stephen Hawking with Christophe Galfard ; illustrated by Garry Parsons</fulltitle>
+			<title>George&#39;s secret key to the universe</title>
+			<author>Hawking, Lucy</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1298843/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1298843</recordlink>
+		</Record>
+		<Record id="1257721" xlink:href="http://www.aadl.org/rest/record/1257721/" xlink:title="God created the integers : the mathematical breakthroughs that changed history / edited, with commentary, by Stephen Hawking">
+			<bibnum>1257721</bibnum>
+			<fulltitle>God created the integers : the mathematical breakthroughs that changed history / edited, with commentary, by Stephen Hawking</fulltitle>
+			<title>God created the integers : the mathematical breakthroughs that changed history</title>
+			<author></author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1257721/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1257721</recordlink>
+		</Record>
+		<Record id="1113918" xlink:href="http://www.aadl.org/rest/record/1113918/" xlink:title="The illustrated a brief history of time / Stephen Hawking">
+			<bibnum>1113918</bibnum>
+			<fulltitle>The illustrated a brief history of time / Stephen Hawking</fulltitle>
+			<title>The illustrated a brief history of time</title>
+			<author>Hawking, S. W. (Stephen W.)</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1113918/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1113918</recordlink>
+		</Record>
+		<Record id="1113105" xlink:href="http://www.aadl.org/rest/record/1113105/" xlink:title="The nature of space and time / Stephen Hawking and Roger Penrose">
+			<bibnum>1113105</bibnum>
+			<fulltitle>The nature of space and time / Stephen Hawking and Roger Penrose</fulltitle>
+			<title>The nature of space and time</title>
+			<author>Hawking, S. W. (Stephen W.)</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1113105/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1113105</recordlink>
+		</Record>
+		<Record id="1003883" xlink:href="http://www.aadl.org/rest/record/1003883/" xlink:title="Stephen Hawking&#39;s A brief history of time : a reader&#39;s companion / edited by Stephen Hawking ; prepared by Gene Stone">
+			<bibnum>1003883</bibnum>
+			<fulltitle>Stephen Hawking&#39;s A brief history of time : a reader&#39;s companion / edited by Stephen Hawking ; prepared by Gene Stone</fulltitle>
+			<title>Stephen Hawking&#39;s A brief history of time : a reader&#39;s companion</title>
+			<author></author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1003883/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1003883</recordlink>
+		</Record>
+		<Record id="1220554" xlink:href="http://www.aadl.org/rest/record/1220554/" xlink:title="Stephen Hawking&#39;s universe. [1-2] [videorecording (DVD)] / Thirteen WNET ; Uden Associates ; David Filkin Enterprises co-production in association with BBC-TV">
+			<bibnum>1220554</bibnum>
+			<fulltitle>Stephen Hawking&#39;s universe. [1-2] [videorecording (DVD)] / Thirteen WNET ; Uden Associates ; David Filkin Enterprises co-production in association with BBC-TV</fulltitle>
+			<title>Stephen Hawking&#39;s universe. [1-2] [videorecording (DVD)]</title>
+			<author></author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1220554/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1220554</recordlink>
+		</Record>
+		<Record id="1221813" xlink:href="http://www.aadl.org/rest/record/1221813/" xlink:title="Stephen Hawking&#39;s universe. [3-4] [videorecording (DVD)] / Thirteen WNET ; Uden Associates ; David Filkin Enterprises co-production in association with BBC-TV">
+			<bibnum>1221813</bibnum>
+			<fulltitle>Stephen Hawking&#39;s universe. [3-4] [videorecording (DVD)] / Thirteen WNET ; Uden Associates ; David Filkin Enterprises co-production in association with BBC-TV</fulltitle>
+			<title>Stephen Hawking&#39;s universe. [3-4] [videorecording (DVD)]</title>
+			<author></author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1221813/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1221813</recordlink>
+		</Record>
+		<Record id="1221814" xlink:href="http://www.aadl.org/rest/record/1221814/" xlink:title="Stephen Hawking&#39;s universe. [5-6] [videorecording (DVD)] / Thirteen WNET ; Uden Associates ; David Filkin Enterprises co-production in association with BBC-TV">
+			<bibnum>1221814</bibnum>
+			<fulltitle>Stephen Hawking&#39;s universe. [5-6] [videorecording (DVD)] / Thirteen WNET ; Uden Associates ; David Filkin Enterprises co-production in association with BBC-TV</fulltitle>
+			<title>Stephen Hawking&#39;s universe. [5-6] [videorecording (DVD)]</title>
+			<author></author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1221814/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1221814</recordlink>
+		</Record>
+		<Record id="1298005" xlink:href="http://www.aadl.org/rest/record/1298005/" xlink:title="A stubbornly persistent illusion : the essential works of Albert Einstein / edited with commentary by Stephen Hawking">
+			<bibnum>1298005</bibnum>
+			<fulltitle>A stubbornly persistent illusion : the essential works of Albert Einstein / edited with commentary by Stephen Hawking</fulltitle>
+			<title>A stubbornly persistent illusion : the essential works of Albert Einstein</title>
+			<author>Einstein, Albert, 1879-1955</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1298005/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1298005</recordlink>
+		</Record>
+		<Record id="1194247" xlink:href="http://www.aadl.org/rest/record/1194247/" xlink:title="The theory of everything : the origin and fate of the universe [sound recording] / Stephen W. Hawking">
+			<bibnum>1194247</bibnum>
+			<fulltitle>The theory of everything : the origin and fate of the universe [sound recording] / Stephen W. Hawking</fulltitle>
+			<title>The theory of everything : the origin and fate of the universe [sound recording]</title>
+			<author>Hawking, S. W. (Stephen W.)</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1194247/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1194247</recordlink>
+		</Record>
+		<Record id="1195242" xlink:href="http://www.aadl.org/rest/record/1195242/" xlink:title="The theory of everything : the origin and fate of the universe / Stephen W. Hawking">
+			<bibnum>1195242</bibnum>
+			<fulltitle>The theory of everything : the origin and fate of the universe / Stephen W. Hawking</fulltitle>
+			<title>The theory of everything : the origin and fate of the universe</title>
+			<author>Hawking, S. W. (Stephen W.)</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1195242/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1195242</recordlink>
+		</Record>
+		<Record id="1182151" xlink:href="http://www.aadl.org/rest/record/1182151/" xlink:title="The universe in a nutshell / Stephen Hawking">
+			<bibnum>1182151</bibnum>
+			<fulltitle>The universe in a nutshell / Stephen Hawking</fulltitle>
+			<title>The universe in a nutshell</title>
+			<author>Hawking, S. W. (Stephen W.)</author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1182151/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1182151</recordlink>
+		</Record>
+		<Record id="1198835" xlink:href="http://www.aadl.org/rest/record/1198835/" xlink:title="On the shoulders of giants : the great works of physics and astronomy / edited, with commentary, by Stephen Hawking">
+			<bibnum>1198835</bibnum>
+			<fulltitle>On the shoulders of giants : the great works of physics and astronomy / edited, with commentary, by Stephen Hawking</fulltitle>
+			<title>On the shoulders of giants : the great works of physics and astronomy</title>
+			<author></author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1198835/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1198835</recordlink>
+		</Record>
+		<Record id="1248156" xlink:href="http://www.aadl.org/rest/record/1248156/" xlink:title="Arrested development. Season one, disc 1 [videorecording] / 20th Century Fox Television ; Imagine Television ; The Hurwitz Company ; producer, Barbara Feldman ; writers, Brad Copeland ... [et al.] ; directed by Jay Chandrasekhar ... [et al.]">
+			<bibnum>1248156</bibnum>
+			<fulltitle>Arrested development. Season one, disc 1 [videorecording] / 20th Century Fox Television ; Imagine Television ; The Hurwitz Company ; producer, Barbara Feldman ; writers, Brad Copeland ... [et al.] ; directed by Jay Chandrasekhar ... [et al.]</fulltitle>
+			<title>Arrested development. Season one, disc 1 [videorecording]</title>
+			<author></author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1248156/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1248156</recordlink>
+		</Record>
+		<Record id="1250204" xlink:href="http://www.aadl.org/rest/record/1250204/" xlink:title="Arrested development. Season one, disc 2 [videorecording] / 20th Century Fox Television ; Imagine Television ; The Hurwitz Company ; producer, Barbara Feldman ; writers, Brad Copeland ... [et al.] ; directed by Jay Chandrasekhar ... [et al.]">
+			<bibnum>1250204</bibnum>
+			<fulltitle>Arrested development. Season one, disc 2 [videorecording] / 20th Century Fox Television ; Imagine Television ; The Hurwitz Company ; producer, Barbara Feldman ; writers, Brad Copeland ... [et al.] ; directed by Jay Chandrasekhar ... [et al.]</fulltitle>
+			<title>Arrested development. Season one, disc 2 [videorecording]</title>
+			<author></author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1250204/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1250204</recordlink>
+		</Record>
+		<Record id="1250206" xlink:href="http://www.aadl.org/rest/record/1250206/" xlink:title="Arrested development. Season one, disc 3 [videorecording] / 20th Century Fox Television ; Imagine Television ; The Hurwitz Company ; producer, Barbara Feldman ; writers, Brad Copeland ... [et al.] ; directed by Jay Chandrasekhar ... [et al.]">
+			<bibnum>1250206</bibnum>
+			<fulltitle>Arrested development. Season one, disc 3 [videorecording] / 20th Century Fox Television ; Imagine Television ; The Hurwitz Company ; producer, Barbara Feldman ; writers, Brad Copeland ... [et al.] ; directed by Jay Chandrasekhar ... [et al.]</fulltitle>
+			<title>Arrested development. Season one, disc 3 [videorecording]</title>
+			<author></author>
+			<xmlrecordlink>http://www.aadl.org/rest/record/1250206/</xmlrecordlink>
+			<recordlink>http://www.aadl.org/cat/seek/record=1250206</recordlink>
+		</Record>
+	</Records>
+</SearchResult>

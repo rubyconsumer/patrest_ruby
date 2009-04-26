@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="/misc/opac.xsl"?>
+<Holds xmlns:p="http://www.aadl.org"
+          xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Record id="1067614" xlink:href="http://www.aadl.org/rest/record/1067614/" xlink:title="Envisioning information / Edward R. Tufte">
+		<bibnum>1067614</bibnum>
+		<fulltitle>Envisioning information / Edward R. Tufte</fulltitle>
+		<title>Envisioning information</title>
+		<author>Tufte, Edward R., 1942-</author>
+		<isbn>$48.00</isbn>
+		<imglink>http://syndetics.com/hw7.pl?isbn=$48.00+A/SC.gif</imglink>
+		<xmlrecordlink>http://www.aadl.org/rest/record/1067614/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=1067614</recordlink>
+		<holdstatus>2 of 4 holds</holdstatus>
+		<pickuploc>Downtown Library</pickuploc>
+		<canceldate>2010-04-12</canceldate>
+	</Record>
+</Holds>

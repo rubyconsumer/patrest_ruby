@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="/misc/opac.xsl"?>
+<Record xmlns:p="http://www.aadl.org" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <bibnum>1250150</bibnum>
+  <callnum>Teen Fiction</callnum>
+  <author xlink:href="http://www.aadl.org/rest/search/author/Meyer%2C+Stephenie%2C+1973-/" >Meyer, Stephenie, 1973-</author>
+  <fulltitle>Twilight / a novel by Stephenie Meyer</fulltitle>
+  <title>Twilight</title>
+  <edition>1st ed</edition>
+  <pubinfo>New York : Little, Brown and Co., 2005</pubinfo>
+  <desc>498 p</desc>
+  <series>Twilight saga ; 1</series>
+  <summary>When seventeen-year-old Bella leaves Phoenix to live with her father in Forks, Washington, she meets an exquisitely handsome boy at school for whom she feels an overwhelming attraction and who she comes to realize is not wholly human</summary>
+  <subject xlink:href="http://www.aadl.org/rest/search/subject/Vampires+--+Fiction/" >Vampires -- Fiction</subject>
+  <subject xlink:href="http://www.aadl.org/rest/search/subject/High+schools+--+Fiction/" >High schools -- Fiction</subject>
+  <subject xlink:href="http://www.aadl.org/rest/search/subject/Washington+%28State%29+--+Fiction/" >Washington (State) -- Fiction</subject>
+  <isbn>0316160172</isbn>
+  <price>$17.99</price>
+  <holds>83</holds>
+  <lang>eng</lang>
+  <copies>61</copies>
+  <catdate>10-03-2005</catdate>
+  <mattype>a</mattype>
+  <avail>7 copies available at Malletts Adult, Traverwood Adult and West Adult</avail>
+  <coverimglink xlink:href="http://syndetics.com/hw7.pl?isbn=0316160172+A/SC.gif">http://syndetics.com/hw7.pl?isbn=0316160172+A/SC.gif</coverimglink>
+  <ccimglink xlink:href="http://www.aadl.org/cat/ccimg/1250150">http://www.aadl.org/cat/ccimg/1250150</ccimglink>
+  <recordlink xlink:href="http://www.aadl.org/cat/seek/record=1250150">http://www.aadl.org/cat/seek/record=1250150</recordlink>
+</Record>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="/misc/opac.xsl"?>
+<Checkouts xmlns:p="http://www.aadl.org"
+          xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Record id="1303060" xlink:href="http://www.aadl.org/rest/record/1303060/" xlink:title="Blade runner [videorecording] : the final cut / Jerry Perenchio and Bud Yorkin present ; a Michael Deeley-Ridley Scott production ; screenplay by Hampton Fancher and David Peoples ; produced by Michael Deeley ; directed by Ridley Scott">
+		<bibnum>1303060</bibnum>
+		<fulltitle>Blade runner [videorecording] : the final cut / Jerry Perenchio and Bud Yorkin present ; a Michael Deeley-Ridley Scott production ; screenplay by Hampton Fancher and David Peoples ; produced by Michael Deeley ; directed by Ridley Scott</fulltitle>
+		<title>Blade runner [videorecording] : the final cut</title>
+		<author></author>
+		<xmlrecordlink>http://www.aadl.org/rest/record/1303060/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=1303060</recordlink>
+		<duedate>2009-04-28</duedate>
+	</Record>
+	<Record id="1219996" xlink:href="http://www.aadl.org/rest/record/1219996/" xlink:title="Details [periodical]">
+		<bibnum>1219996</bibnum>
+		<fulltitle>Details [periodical]</fulltitle>
+		<title>Details [periodical]</title>
+		<author></author>
+		<xmlrecordlink>http://www.aadl.org/rest/record/1219996/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=1219996</recordlink>
+		<duedate>2009-05-02</duedate>
+	</Record>
+	<Record id="1104806" xlink:href="http://www.aadl.org/rest/record/1104806/" xlink:title="Martha Stewart living [periodical]">
+		<bibnum>1104806</bibnum>
+		<fulltitle>Martha Stewart living [periodical]</fulltitle>
+		<title>Martha Stewart living [periodical]</title>
+		<author></author>
+		<xmlrecordlink>http://www.aadl.org/rest/record/1104806/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=1104806</recordlink>
+		<duedate>2009-05-02</duedate>
+	</Record>
+	<Record id="1306634" xlink:href="http://www.aadl.org/rest/record/1306634/" xlink:title="Living etc [periodical]">
+		<bibnum>1306634</bibnum>
+		<fulltitle>Living etc [periodical]</fulltitle>
+		<title>Living etc [periodical]</title>
+		<author></author>
+		<xmlrecordlink>http://www.aadl.org/rest/record/1306634/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=1306634</recordlink>
+		<duedate>2009-05-02</duedate>
+	</Record>
+	<Record id="1237188" xlink:href="http://www.aadl.org/rest/record/1237188/" xlink:title="Men&#39;s journal [periodical]">
+		<bibnum>1237188</bibnum>
+		<fulltitle>Men&#39;s journal [periodical]</fulltitle>
+		<title>Men&#39;s journal [periodical]</title>
+		<author></author>
+		<xmlrecordlink>http://www.aadl.org/rest/record/1237188/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=1237188</recordlink>
+		<duedate>2009-05-02</duedate>
+	</Record>
+	<Record id="1277702" xlink:href="http://www.aadl.org/rest/record/1277702/" xlink:title="Make [periodical]: technology on your time">
+		<bibnum>1277702</bibnum>
+		<fulltitle>Make [periodical]: technology on your time</fulltitle>
+		<title>Make [periodical]: technology on your time</title>
+		<author></author>
+		<xmlrecordlink>http://www.aadl.org/rest/record/1277702/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=1277702</recordlink>
+		<duedate>2009-05-02</duedate>
+	</Record>
+	<Record id="0" xlink:href="http://www.aadl.org/rest/record/0/" xlink:title="">
+		<bibnum>0</bibnum>
+		<fulltitle></fulltitle>
+		<title></title>
+		<author></author>
+		<xmlrecordlink>http://www.aadl.org/rest/record/0/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=0</recordlink>
+		<duedate>2009-05-09</duedate>
+	</Record>
+	<Record id="1293781" xlink:href="http://www.aadl.org/rest/record/1293781/" xlink:title="Google Web toolkit solutions : more cool &amp; useful stuff / David Geary with Rob Gordon">
+		<bibnum>1293781</bibnum>
+		<fulltitle>Google Web toolkit solutions : more cool &amp; useful stuff / David Geary with Rob Gordon</fulltitle>
+		<title>Google Web toolkit solutions : more cool &amp; useful stuff</title>
+		<author>Geary, David M</author>
+		<isbn>9780132344814</isbn>
+		<imglink>http://syndetics.com/hw7.pl?isbn=9780132344814+A/SC.gif</imglink>
+		<xmlrecordlink>http://www.aadl.org/rest/record/1293781/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=1293781</recordlink>
+		<duedate>2009-05-19</duedate>
+	</Record>
+	<Record id="1292648" xlink:href="http://www.aadl.org/rest/record/1292648/" xlink:title="About face 3 : the essentials of interaction design / Alan Cooper, Robert Reimann, and Dave Cronin">
+		<bibnum>1292648</bibnum>
+		<fulltitle>About face 3 : the essentials of interaction design / Alan Cooper, Robert Reimann, and Dave Cronin</fulltitle>
+		<title>About face 3 : the essentials of interaction design</title>
+		<author>Cooper, Alan, 1952-</author>
+		<isbn>0470084111</isbn>
+		<imglink>http://syndetics.com/hw7.pl?isbn=0470084111+A/SC.gif</imglink>
+		<xmlrecordlink>http://www.aadl.org/rest/record/1292648/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=1292648</recordlink>
+		<duedate>2009-05-19</duedate>
+	</Record>
+	<Record id="1067616" xlink:href="http://www.aadl.org/rest/record/1067616/" xlink:title="The visual display of quantitative information / Edward R. Tufte">
+		<bibnum>1067616</bibnum>
+		<fulltitle>The visual display of quantitative information / Edward R. Tufte</fulltitle>
+		<title>The visual display of quantitative information</title>
+		<author>Tufte, Edward R., 1942-</author>
+		<isbn>9780961392147</isbn>
+		<imglink>http://syndetics.com/hw7.pl?isbn=9780961392147+A/SC.gif</imglink>
+		<xmlrecordlink>http://www.aadl.org/rest/record/1067616/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=1067616</recordlink>
+		<duedate>2009-05-20</duedate>
+	</Record>
+	<Record id="1049017" xlink:href="http://www.aadl.org/rest/record/1049017/" xlink:title="Powers of ten : a book about the relative size of things in the universe and the effect of adding another zero / Philip and Phylis Morrison and the Office of Charles and Ray Eames">
+		<bibnum>1049017</bibnum>
+		<fulltitle>Powers of ten : a book about the relative size of things in the universe and the effect of adding another zero / Philip and Phylis Morrison and the Office of Charles and Ray Eames</fulltitle>
+		<title>Powers of ten : a book about the relative size of things in the universe and the effect of adding another zero</title>
+		<author>Morrison, Philip</author>
+		<isbn>0716715007</isbn>
+		<imglink>http://syndetics.com/hw7.pl?isbn=0716715007+A/SC.gif</imglink>
+		<xmlrecordlink>http://www.aadl.org/rest/record/1049017/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=1049017</recordlink>
+		<duedate>2009-05-21</duedate>
+	</Record>
+</Checkouts>
