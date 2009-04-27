@@ -14,7 +14,7 @@ Start by setting your library API's base url. For AADL, it's 'http://www.aadl.or
 
     require 'patrest'
     include PatRest
-    PatRest::OPTIONS = {'BASE_URI' => http://www.aadl.org/rest/}
+    PatRest::Options.base_uri('http://www.aadl.org/rest/')
     
 ### Finding Records
 You can find a specific record by it's id

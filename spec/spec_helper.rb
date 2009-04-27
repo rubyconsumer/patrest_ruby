@@ -1,8 +1,8 @@
+PatRest::OPTIONS['BASE_URI'] = 'http://www.aadl.org/rest/'
+
 require File.join(File.dirname(__FILE__), '..', 'lib', 'patrest')
 require 'spec'
 include PatRest
-
-PatRest::BaseURI = 'http://www.aadl.org/rest/'
 
 def file_fixture(filename)
   open(File.join(File.dirname(__FILE__), 'fixtures', "#{filename.to_s}")).read

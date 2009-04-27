@@ -2,7 +2,6 @@ module PatRest
   class Patron
     include HTTParty
     format :xml
-    base_uri 'http://www.aadl.org/rest/'
     
     attr_reader :token
     

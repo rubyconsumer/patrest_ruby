@@ -2,7 +2,6 @@ module PatRest
   class Record
     include HTTParty
     format :xml
-    base_uri 'http://www.aadl.org/rest/record'
     
     attr_accessor :attributes
     def self.find(record_number)
