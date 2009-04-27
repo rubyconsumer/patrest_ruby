@@ -9,9 +9,9 @@ require 'patrest/search'
 module PatRest
   class Options
     def self.base_uri(uri)
-      puts PatRest::Patron.base_uri(uri)
-      puts PatRest::Record.base_uri(uri + 'record')
-      puts PatRest::Search.base_uri(uri + 'search')
+      PatRest::Patron.base_uri(uri)
+      PatRest::Record.base_uri(uri + 'record')
+      PatRest::Search.base_uri(uri + 'search')
     end
   end
   

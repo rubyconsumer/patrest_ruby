@@ -5,7 +5,7 @@ describe Record do
     describe "with a valid key" do
       before  do
         @id = 1250150
-        mock_http(:get, "#{@id}", 'record_twilight.xml')
+        mock_http(:get, "/foo#{@id}", 'record_twilight.xml')
       end
       
       it "raises no errors" do
