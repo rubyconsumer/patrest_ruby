@@ -19,7 +19,7 @@ module PatRest
     end
     
     def execute
-      results = Search.get("/#{type}/#{escaped_query}/#{per_page}/#{current_page}")
+      results = Search.get("/search/#{type}/#{escaped_query}/#{per_page}/#{current_page}")
       @results  = results['SearchResult']['Records']['Record'].collect {|attrs| PatRest::Record.new(attrs)}
       self
     end

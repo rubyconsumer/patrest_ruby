@@ -5,7 +5,7 @@ module PatRest
     
     attr_accessor :attributes
     def self.find(record_number)
-      attrs = get("/#{record_number}")
+      attrs = get("/record/#{record_number}")
       raise PatRest::RecordNotFound if attrs['Record']['error']
       self.new(attrs['Record'])
     end

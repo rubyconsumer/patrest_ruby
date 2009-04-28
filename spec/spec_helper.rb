@@ -2,7 +2,9 @@ require File.join(File.dirname(__FILE__), '..', 'lib', 'patrest')
 require 'spec'
 include PatRest
 
-PatRest::Options.base_uri('http://www.aadl.org/rest/')
+BASE_URI = 'http://www.aadl.org/rest'
+
+PatRest::Options.base_uri("#{BASE_URI}/")
 
 
 def file_fixture(filename)
@@ -21,9 +23,9 @@ def mock_http(method, request_uri, filename)
     http_class = Net::HTTP::Get
   end
   
-  http_request = HTTParty::Request.new(http_class, request_uri, :format => format)
+  http_request = HTTParty::Request.new(http_class, request_uri, :base_uri => BASE_URI, :format => format)
   http_request.stub!(:perform_actual_request).and_return(response)
 
-  HTTParty::Request.should_receive(:new).and_return(http_request)
+  HTTParty::Request.should_receive(:new).with(http_class, request_uri, hash_including(:base_uri => BASE_URI)).and_return(http_request)
   [http_request, response]
 end

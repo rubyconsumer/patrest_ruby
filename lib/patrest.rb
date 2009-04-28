@@ -10,8 +10,8 @@ module PatRest
   class Options
     def self.base_uri(uri)
       PatRest::Patron.base_uri(uri)
-      PatRest::Record.base_uri(uri + 'record')
-      PatRest::Search.base_uri(uri + 'search')
+      PatRest::Record.base_uri(uri)
+      PatRest::Search.base_uri(uri)
     end
   end
   

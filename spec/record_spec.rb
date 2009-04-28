@@ -5,7 +5,7 @@ describe Record do
     describe "with a valid key" do
       before  do
         @id = 1250150
-        mock_http(:get, "/foo#{@id}", 'record_twilight.xml')
+        mock_http(:get, "/record/#{@id}", 'record_twilight.xml')
       end
       
       it "raises no errors" do
@@ -20,7 +20,7 @@ describe Record do
     describe "with an invalid key" do
       it "rasies PatRest::RecordNotFound" do
         id = 1
-        mock_http(:get, "http://www.aadl.org/rest/record/#{id}", 'record_not_found.xml')
+        mock_http(:get, "/record/#{id}", 'record_not_found.xml')
         lambda { Record.find(id) }.should raise_error(PatRest::RecordNotFound)
       end
     end
@@ -29,7 +29,7 @@ describe Record do
   describe "attribute access" do
     before  do
       @id = 1250150
-      mock_http(:get, "http://www.aadl.org/rest/record/#{@id}", 'record_twilight.xml')
+      mock_http(:get, "/record/#{@id}", 'record_twilight.xml')
       @record = Record.find(@id)
     end
     

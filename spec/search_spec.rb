@@ -4,7 +4,9 @@ describe Search do
   before do
     type  = 'author'
     query = 'hawking'
-    mock_http(:get, "http://www.aadl.org/rest/search/#{type}/#{query}", 'search_hawking.xml')
+    per_page = 10
+    page     = 1
+    mock_http(:get, "/search/#{type}/#{query}/#{per_page}/#{page}", 'search_hawking.xml')
     @search = Search.new(type, query)
   end
   
@@ -31,7 +33,9 @@ describe Search, 'array-like behavior' do
   before do
     type  = 'author'
     query = 'hawking'
-    mock_http(:get, "http://www.aadl.org/rest/search/#{type}/#{query}", 'search_hawking.xml')
+    per_page = 10
+    page     = 1
+    mock_http(:get, "/search/#{type}/#{query}/#{per_page}/#{page}", 'search_hawking.xml')
     @search = Search.new(type, query).execute
   end
   
