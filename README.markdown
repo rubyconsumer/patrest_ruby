@@ -10,11 +10,12 @@ Install the gem(s):
     sudo gem install trek-patrest
 
 ### Setup
-Start by setting your library API's base url. For AADL, it's 'http://www.aadl.org/rest/'
+Start by setting your library API's base url. For AADL users, this is already set for you.
 
     require 'patrest'
     include PatRest
-    PatRest::Options.base_uri('http://www.aadl.org/rest/')
+    # option for AADL users
+    # PatRest::Options.base_uri('http://api.library.org/')
     
 ### Finding Records
 You can find a specific record by it's id
