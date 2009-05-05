@@ -3,6 +3,8 @@ module PatRest
     FACETS = %w(title author callnum keyword subject gvtdocnum stdnum titlekey controlnum barcode record bibnum itemnum)
     include HTTParty
     format :xml
+    base_uri('http://www.aadl.org/rest/')
+    
     
     attr_accessor :type, :query, :per_page, :current_page, :results
     

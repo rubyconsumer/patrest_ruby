@@ -2,7 +2,7 @@ require File.join(File.dirname(__FILE__), '..', 'lib', 'patrest')
 require 'spec'
 include PatRest
 
-BASE_URI = 'http://www.aadl.org/rest'
+BASE_URI = 'http://www.library.org/rest'
 
 PatRest::Options.base_uri("#{BASE_URI}/")
 
