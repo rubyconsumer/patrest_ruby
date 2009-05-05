@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="/misc/opac.xsl"?>
+<Checkouts xmlns:p="http://www.aadl.org"
+          xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Record id="1303060" xlink:href="http://www.aadl.org/rest/record/1303060/" xlink:title="Blade runner [videorecording] : the final cut / Jerry Perenchio and Bud Yorkin present ; a Michael Deeley-Ridley Scott production ; screenplay by Hampton Fancher and David Peoples ; produced by Michael Deeley ; directed by Ridley Scott">
+		<bibnum>1303060</bibnum>
+		<fulltitle>Blade runner [videorecording] : the final cut / Jerry Perenchio and Bud Yorkin present ; a Michael Deeley-Ridley Scott production ; screenplay by Hampton Fancher and David Peoples ; produced by Michael Deeley ; directed by Ridley Scott</fulltitle>
+		<title>Blade runner [videorecording] : the final cut</title>
+		<author></author>
+		<xmlrecordlink>http://www.aadl.org/rest/record/1303060/</xmlrecordlink>
+		<recordlink>http://www.aadl.org/cat/seek/record=1303060</recordlink>
+		<duedate>2009-04-28</duedate>
+	</Record>
+</Checkouts>
